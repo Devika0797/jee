@@ -16,13 +16,5 @@
     <url-pattern>/first_servlet</url-pattern>
   </servlet-mapping>
 
-<!--  <servlet>-->
-<!--    <servlet-name>SecondServlet</servlet-name>-->
-<!--    <servlet-class>com.geekbrains.app.SecondServlet</servlet-class>-->
-<!--  </servlet>-->
 
-<!--  <servlet-mapping>-->
-<!--    <servlet-name>SecondServlet</servlet-name>-->
-<!--    <url-pattern>/sec</url-pattern>-->
-<!--  </servlet-mapping>-->
 </web-app>
